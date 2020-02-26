@@ -35,9 +35,13 @@
 # Files :
 
 When a scan is successfully completed , **3 files** are created 
+
 `1 - domainname.txt : contains all domains dead + alive` 
+
 `2 - domainname-200.txt : contains domains with 200 status` 
+
 `3 - domainname-other.txt : contains domains with status other than 200. `
+
 
 # Example Usage
 ![Total Unique Subdomains Found](https://github.com/devanshbatham/Passivehunter/blob/master/Images/run1.PNG)
