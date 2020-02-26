@@ -14,6 +14,7 @@ It works on anything that has Python installed.
 # **How to install and use ?**
 
 ` > mkdir Passive-hunter`
+
 `> cd Passive-hunter`
 `> git clone https://github.com/devanshbatham/Passivehunter`
 `> sudo apt install python3.7 python3-venv python3.7-venv`
