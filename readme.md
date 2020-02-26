@@ -9,20 +9,28 @@
  I created this for my personal use , as enumerating the subdomains and filtering out the alive subdomains among hundreds of domains is a tedious task and ofcourse not a programmer way of doing things , Passivehunter automates all this , from filtering out the domains from raw json output to removing all the dead domains , It helped me a lot in finding a lot of potential hidden assets of the BB companies (And yes a lot of $$$$ bounties too) . 
 
 # **Compatability**
-It works on anything that has Python installed.
+**It works on anything that has Python installed.**
 
 # **How to install and use ?**
 
 ` > mkdir Passive-hunter`
 
 `> cd Passive-hunter`
+
 `> git clone https://github.com/devanshbatham/Passivehunter`
+
 `> sudo apt install python3.7 python3-venv python3.7-venv`
+
 `> python3.7 -m venv py37-venv`
+
 `> . py37-venv/bin/activate`
+
 `> cd Passivehunter`
+
 `> pip install -r requirements.txt` 
-`> python passivehunter domainname.tld` 
+
+`> python passivehunter domainname.tld`
+
 
 # Files :
 
