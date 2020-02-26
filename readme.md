@@ -48,6 +48,7 @@ When a scan is successfully completed , **3 files** are created
 ![Alive Subdomains](https://github.com/devanshbatham/Passivehunter/blob/master/Images/run2.PNG)
 # Credits 
 Huge shoutout to `erbbysam` <3 . 
+
 You can read about **DNSGREP** here : https://blog.erbbysam.com/index.php/2019/02/09/dnsgrep/
 
 #  Wanna show support for the tool ?
