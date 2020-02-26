@@ -43,10 +43,10 @@ When a scan is successfully completed , **3 files** are created
 `3 - domainname-other.txt : contains domains with status other than 200. `
 
 
-# Example Usage
+# Example Usage : 
 ![Total Unique Subdomains Found](https://github.com/devanshbatham/Passivehunter/blob/master/Images/run1.PNG)
 ![Alive Subdomains](https://github.com/devanshbatham/Passivehunter/blob/master/Images/run2.PNG)
-# Credits 
+# Credits : 
 Huge shoutout to `erbbysam` <3 . 
 
 You can read about **DNSGREP** here : https://blog.erbbysam.com/index.php/2019/02/09/dnsgrep/
