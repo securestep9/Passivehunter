@@ -56,6 +56,8 @@ async def fetch_html(domain , url: str, session: ClientSession, **kwargs) -> tup
         return (url, 500)
     except RuntimeError:
         return (url, 500)
+    except KeyboardInterrupt:
+        print("\u001b[31;1m[!] KeyboardInterrupt Occured \u001b[0m")
     
     # if response is 200
     if resp.status ==200:
