@@ -1,5 +1,5 @@
 
-  #      PassiveHunter 
+  #      PassiveHunter : not another subdo tool
   ![Passivehunter](https://github.com/devanshbatham/Passivehunter/blob/master/Images/passive.PNG)
   
  # **What is PassiveHunter ?**
